@@ -1,3 +1,4 @@
 # footy-tipping
 
-We're tipping AFL games to learn supervised machine learning. And make some cash. And most importantly beat loved ones at footy tipping.
+Ipython notebooks to enter the sportsbet CIKM competition. http://www.sportsbetcikm15.com/
+
